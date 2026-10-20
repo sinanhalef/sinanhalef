@@ -1,5 +1,5 @@
-Information Systems @ TUM · ranked 1st of ~220 · probability, markets & building things
-CS & Information Systems @ TUM · quant trading, stochastic modelling, football analytics
+Information Systems @ TUM · probability, markets & building things
+CS & Information Systems @ TUM · stochastic modelling, football analytics, probability theory, game theory
 
 <!---
 sinanhalef/sinanhalef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

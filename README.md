@@ -1,7 +1,5 @@
--  Hi, I’m @sinanhalef
--  I’m interested in sports, djing, music, and coding (obviously)
--  I’m currently learning python
--  I’m looking to collaborate on anything
+Information Systems @ TUM · ranked 1st of ~220 · probability, markets & building things
+CS & Information Systems @ TUM · quant trading, stochastic modelling, football analytics
 
 <!---
 sinanhalef/sinanhalef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
